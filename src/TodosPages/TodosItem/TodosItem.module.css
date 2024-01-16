@@ -1,0 +1,19 @@
+.buttonEdit {
+	margin-left: auto;
+}
+
+.li {
+	border: 1px solid #ccc;
+	display: flex;
+	justify-content: space-between;
+	padding: 0.5rem 2rem;
+	margin-bottom: 1rem;
+	align-items: center;
+}
+
+.done {
+	text-decoration: line-through;
+}
+.Ul {
+	margin-left: auto;
+}
